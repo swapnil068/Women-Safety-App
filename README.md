@@ -1,7 +1,6 @@
 <h1 align ="center"> :information_desk_person: Naari :ok_woman: </h1>
 <h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
 
-![Image](https://github.com/danishsshaikh/Naari/blob/master/app/src/main/res/drawable/github.png)
 
 Naari Rakshak is an android app, a women safety app that allows the user to create their own safety network and take care of themselves. 
 The app is about safety/awareness & makes the user safe & confident. 
@@ -46,9 +45,3 @@ A message will be sent along with the live location and the family member with t
 - Adobe XD
 - GitHub Desktop
 
-</br>
-
-## :star2: Members
-- [Aryan Veturekar](https://aryanveturekar.github.io/)
-- [Himanshu Singh](https://himanshusiingh.github.io/)
-- [Danish Shaikh](https://danishsshaikh.github.io/)
